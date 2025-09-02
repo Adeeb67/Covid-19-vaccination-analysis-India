@@ -11,7 +11,7 @@ It includes data cleaning, visualization, and insights on vaccination trends.
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
+  
 
 
 
