@@ -5,7 +5,7 @@ It includes data cleaning, visualization, and insights on vaccination trends.
 ## Features
 - Exploratory Data Analysis (EDA)  
 - Statewise vaccination comparison  
-- Visualizations using Matplotlib & Seaborn  
+- Visualizations using Matplotlib 
 
 ## Tools Used
 - Python  
